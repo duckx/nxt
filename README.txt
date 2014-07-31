@@ -13,7 +13,7 @@ http://localhost:7876 , where the Nxt UI should now be available. To stop the
 application, type Ctrl-C inside the console window.
 
 
-Customization:
+Customization:asdf
 
 There are many configuration parameters that could be changed, but the defaults
 are set so that normally you can run the program immediately after unpacking,
@@ -29,7 +29,7 @@ with the updated file from the new package, while your customizations remain
 safe in the nxt.properties file.
 
 
-Technical details:
+Technical details:dddddd
 
 The Nxt software is a client-server application. It consists of a java server
 process, the one started by the run.sh script, and a javascript user interface
